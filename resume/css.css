@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    padding: 40;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main {
+    margin-left: 40;
+    margin-right: 40;
+    padding-left: 40;
+    padding-right: 40;
+    padding-top: 20;
+    padding-bottom: 20;
+    border: 1px solid black;
+}
+
+.head {
+    display: flex;
+    flex-wrap: wrap;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+}
+
+.left {
+    flex: 25%
+}
+
+.right {
+    flex: 75%
+}
+
+.profile-label {
+    font-weight: bold;
+    width: 150px;
+}
+
+.education {
+    margin-top: 20;
+
+}
+
+.work {
+    margin-top: 20;
+
+}
+
+.skills {
+    margin-top: 20;
+
+}
+
+.genskills {
+    margin-top: 40;
+
+}
+
+.hobbies {
+    margin-top: 40;
+
+}
+
+.strength {
+    margin-top: 40;
+
+}
+
+.declare {
+    margin-top: 40;
+
+}
